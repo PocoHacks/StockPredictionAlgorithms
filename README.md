@@ -4,8 +4,8 @@ This repository is intended to have several algorithms for predicting stock pric
 
 
 #### How To Contribute?
-Drop a PR
-Your solution *MUST* contain:
+
+Your solution **MUST** contain:
 - Folder with your name
 - A solution file (preferably ipynb)
 - A dataset
